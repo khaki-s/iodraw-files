@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oMht6GtzU37AmOLUJAYW-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;基于YOLO-DeepSORT图像识别与行为节律研究&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="124.96" y="1320" width="570" height="60" as="geometry" />
+          <mxGeometry x="129" y="1320" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;使用OpenCV库对原始数据集进行扩充，&lt;/font&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;针对深海环境的特点，针对性强化弱光视频&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="329.96" y="1420" width="160" height="100" as="geometry" />
+          <mxGeometry x="334" y="1420" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;结合 CLAHE 和伽马校正，分别局部和全局增强视频亮度，便于后续的标注和识别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="339.96" y="1560" width="140" height="120" as="geometry" />
+          <mxGeometry x="344" y="1560" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-5" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=32;endSize=4.13;width=6;fillColor=#CC6600;strokeColor=#CC6600;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oMht6GtzU37AmOLUJAYW-2" target="oMht6GtzU37AmOLUJAYW-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -23,7 +23,7 @@
           <mxGeometry x="346" y="1680" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#FF8000;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="48.210000000000065" y="1420" width="206" height="316" as="geometry" />
+          <mxGeometry x="309.0000000000001" y="1384" width="206" height="316" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-8" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=32;endSize=4.13;width=6;fillColor=#CC6600;strokeColor=#CC6600;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="oMht6GtzU37AmOLUJAYW-2" edge="1" source="oMht6GtzU37AmOLUJAYW-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
