@@ -57,9 +57,12 @@
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="390" as="sourcePoint" />
-            <mxPoint x="210" y="340" as="targetPoint" />
+            <mxPoint x="170" y="490" as="sourcePoint" />
+            <mxPoint x="270" y="490" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-22" value="(B ,1024, 4, 72, 72)&lt;div&gt;(B,C,D,W,H)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="490" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
