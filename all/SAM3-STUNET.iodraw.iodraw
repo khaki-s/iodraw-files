@@ -138,6 +138,9 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-57" value="(B, 512, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="720" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-58" value="resblock" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="768" width="63" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
