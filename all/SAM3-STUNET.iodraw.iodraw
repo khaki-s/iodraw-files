@@ -282,9 +282,10 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-100" value="(B, 96, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="522.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52kFL-z2Gp-4ViMMPGCo-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-101">
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1280" y="410" as="targetPoint" />
+            <mxPoint x="1297" y="340" as="targetPoint" />
+            <mxPoint x="1200" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-101" value="resblock&lt;div&gt;（B,32,4,128,128）&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -360,10 +361,10 @@
           <mxGeometry x="1230" y="602" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-133" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="360" width="40" height="75" as="geometry" />
+          <mxGeometry x="1327" y="290" width="40" height="75" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-134" value="主输出：(B, 3, 4, 128, 128）" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="440" width="180" height="40" as="geometry" />
+          <mxGeometry x="1277" y="370" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
