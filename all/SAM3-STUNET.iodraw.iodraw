@@ -262,7 +262,7 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-99" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1006" y="447.5" width="40" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="52kFL-z2Gp-4ViMMPGCo-100" value="(B, 96, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-100" value="(B, 64, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="966" y="510" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontStyle=1" parent="1" edge="1">
