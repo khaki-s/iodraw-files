@@ -125,7 +125,7 @@
           <mxGeometry x="505.5" y="970" width="184.5" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-58" value="resblock" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="520" y="938.4999999999999" width="169" height="27" as="geometry" />
+          <mxGeometry x="505.5" y="932.9999999999999" width="169" height="27" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;fontStyle=1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-59" edge="1">
           <mxGeometry relative="1" as="geometry">
