@@ -343,13 +343,13 @@
           <mxGeometry x="1230" y="665.5" width="40" height="75" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-126" value="辅助输出2：(B, 3, 4, 32, 32)" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1180" y="740.5" width="160" height="40" as="geometry" />
+          <mxGeometry x="1100" y="732.25" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-130" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1290" y="522.5" width="40" height="75" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-131" value="辅助输出1：(B, 3, 4, 64, 64)" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1230" y="602" width="160" height="40" as="geometry" />
+          <mxGeometry x="1190" y="590" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-133" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1327" y="290" width="40" height="75" as="geometry" />
@@ -373,7 +373,7 @@
           <mxGeometry x="1440" y="665.5" width="40" height="75" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-142" value="5*(B, 3, 4, 240, 240）&lt;div style=&quot;font-size: 24px;&quot;&gt;分配权重，计算loss&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1410" y="732.25" width="123" height="45.75" as="geometry" />
+          <mxGeometry x="1410" y="732.25" width="240" height="97.75" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-147" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
