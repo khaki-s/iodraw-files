@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-46" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="300" y="695" width="127" height="125" as="geometry" />
+          <mxGeometry x="246" y="695" width="127" height="125" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-48" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="720" width="40" height="75" as="geometry" />
