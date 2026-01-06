@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-5" value="(B ,1, 240, 240)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry width="190" height="70" as="geometry" />
+          <mxGeometry x="10" y="10" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -218,7 +218,7 @@
           <mxGeometry x="817" y="622" width="63" height="27" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-84" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Stage 1: (B, 64, 4, 64, 64)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="247" y="609" width="170" height="40" as="geometry" />
+          <mxGeometry x="247" y="609" width="363" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-86" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="883" y="607" width="40" height="75" as="geometry" />
@@ -246,7 +246,7 @@
           <mxGeometry x="903" y="550" width="137" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-94" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Stage 0: (B, 32, 4, 128, 128)&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="440" width="180" height="30" as="geometry" />
+          <mxGeometry x="410" y="440" width="370" height="260" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;fontStyle=1" edge="1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-95">
           <mxGeometry relative="1" as="geometry">
@@ -403,7 +403,7 @@
           <mxGeometry x="80" y="70" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-153" value="(B ,1, 240, 240)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="110" width="190" height="70" as="geometry" />
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
