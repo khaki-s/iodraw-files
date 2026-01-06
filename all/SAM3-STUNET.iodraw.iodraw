@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-57" value="(B, 512, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="505.5" y="965.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="505.5" y="965.5" width="184.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-58" value="resblock" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="511" y="938.5" width="63" height="27" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="620" y="852" width="40" height="75" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-64" value="(B, 768, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="610" y="932" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="908" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-65" value="resblock&lt;div style=&quot;font-size: 24px;&quot;&gt;（B,256,4,16,16）&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="650" y="812" width="63" height="27" as="geometry" />
