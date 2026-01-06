@@ -282,8 +282,14 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-106" value="(B ,1024, 4, 72, 72)&lt;div&gt;(B,C,D,W,H)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="50" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-107" target="52kFL-z2Gp-4ViMMPGCo-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-107" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1*1*1 conv 降维&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="408.75" y="110" width="107.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-109" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1*1*1 conv 降维&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="408.75" y="170" width="107.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
