@@ -246,6 +246,11 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-90" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="863" y="458" width="40" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-93" value="resblock&lt;div&gt;（B,64,4,16,16）&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="903" y="550" width="137" height="40" as="geometry" />
         </mxCell>
@@ -340,8 +345,14 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-125" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1230" y="665.5" width="40" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="52kFL-z2Gp-4ViMMPGCo-126" value="辅助输出3：(B, 3, 4, 32, 32)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-126" value="辅助输出2：(B, 3, 4, 32, 32)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="740.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-130" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="522.5" width="40" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-131" value="辅助输出3：(B, 3, 4, 32, 32)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="597.5" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
