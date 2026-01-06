@@ -381,7 +381,7 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-141" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1440" y="665.5" width="40" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="52kFL-z2Gp-4ViMMPGCo-142" value="5*(B, 3, 4, 240, 240）" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-142" value="5*(B, 3, 4, 240, 240）&lt;div&gt;分配权重，计算loss&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="732.25" width="123" height="45.75" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-147" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
