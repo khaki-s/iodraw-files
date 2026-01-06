@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-57" value="(B, 512, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="505.5" y="970" width="184.5" height="35.5" as="geometry" />
+          <mxGeometry x="497.75" y="960" width="184.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-58" value="resblock" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="505.5" y="932.9999999999999" width="169" height="27" as="geometry" />
