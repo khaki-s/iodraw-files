@@ -375,8 +375,8 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-138" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1520" y="297.5" width="40" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="52kFL-z2Gp-4ViMMPGCo-139" value="主输出：(B, 3, 4, 240, 240）" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1457" y="390" width="180" height="40" as="geometry" />
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-139" value="(B, 3, 4, 240, 240）" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1457" y="390" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
