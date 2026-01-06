@@ -311,7 +311,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-111" value="3*3*3 conv平滑" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="407" y="230" width="107.5" height="30" as="geometry" />
+          <mxGeometry x="410" y="255" width="253" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-113" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;instance Norm3d&lt;/div&gt;leakyrelu" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="407" y="280" width="107.5" height="30" as="geometry" />
