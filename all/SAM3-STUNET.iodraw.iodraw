@@ -132,8 +132,8 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=10;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=30;entryDy=75;entryPerimeter=0;" edge="1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-49" target="52kFL-z2Gp-4ViMMPGCo-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="52kFL-z2Gp-4ViMMPGCo-55" value="(B, 1024, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="427" y="843" width="120" height="40" as="geometry" />
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-55" value="concat" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="843" width="63" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
