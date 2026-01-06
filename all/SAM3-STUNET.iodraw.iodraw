@@ -61,8 +61,8 @@
             <mxPoint x="270" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="52kFL-z2Gp-4ViMMPGCo-22" value="Stage 0: (B, 32,  4, 128, 128)  ← 最高分辨率skip&lt;br/&gt;Stage 1: (B, 64,  4, 64,  64)&lt;br/&gt;Stage 2: (B, 128, 4, 32,  32)&lt;br/&gt;Stage 3: (B, 256, 4, 16,  16)&lt;br/&gt;Stage 4: (B, 512, 4, 8,   8)&lt;br/&gt;Stage 5: (B, 512, 4, 4,   4)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="320" y="460" width="120" height="30" as="geometry" />
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-22" value="Stage 0: (B, 32,  4, 128, 128)&lt;br&gt;Stage 1: (B, 64,  4, 64,  64)&lt;br&gt;Stage 2: (B, 128, 4, 32,  32)&lt;br&gt;Stage 3: (B, 256, 4, 16,  16)&lt;br&gt;Stage 4: (B, 512, 4, 8,   8)&lt;br&gt;Stage 5: (B, 512, 4, 4,   4)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
