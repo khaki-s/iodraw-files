@@ -199,10 +199,18 @@
           <mxGeometry x="237" y="647.5" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-78" value="resblock&lt;div&gt;（B,128,4,32,32）&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="608" width="130" height="42" as="geometry" />
+          <mxGeometry x="800" y="635" width="130" height="42" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-79" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="640" y="800" width="40" height="75" as="geometry" />
+          <mxGeometry x="750" y="560" width="40" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="589.6666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-80" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="692.5" y="540" width="127" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
