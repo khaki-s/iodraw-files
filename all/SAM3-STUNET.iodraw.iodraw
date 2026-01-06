@@ -122,10 +122,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-57" value="(B, 256, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="497.75" y="940" width="184.5" height="45" as="geometry" />
+          <mxGeometry x="497.75" y="962.75" width="184.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-58" value="resblock+1*1conv" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="497.75" y="914.4999999999999" width="169" height="27" as="geometry" />
+          <mxGeometry x="497.75" y="937.2499999999999" width="169" height="27" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;fontStyle=1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-59" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -150,7 +150,7 @@
           <mxGeometry x="620" y="852" width="40" height="75" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-64" value="(B, 512, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="640" y="893" width="220" height="40" as="geometry" />
+          <mxGeometry x="657" y="880" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-65" value="resblock+1*1conv&lt;div style=&quot;font-size: 24px;&quot;&gt;（B,128,4,16,16）&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="636.5" y="813" width="180" height="78" as="geometry" />
