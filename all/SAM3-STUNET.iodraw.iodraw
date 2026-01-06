@@ -155,6 +155,11 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-62" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="700" width="40" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=10;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="649.8571428571429" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-63" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="700" width="40" height="75" as="geometry" />
         </mxCell>
@@ -162,7 +167,7 @@
           <mxGeometry x="630" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-65" value="resblock" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="673" width="63" height="27" as="geometry" />
+          <mxGeometry x="670" y="660" width="63" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
