@@ -170,10 +170,10 @@
           <mxGeometry x="660" y="750" width="63" height="27" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-67" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="607" y="660" width="40" height="75" as="geometry" />
+          <mxGeometry x="620" y="660" width="40" height="75" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-68" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="427" y="780" width="127" height="100" as="geometry" />
+          <mxGeometry x="533" y="800" width="127" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
