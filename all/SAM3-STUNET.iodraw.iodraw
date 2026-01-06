@@ -369,7 +369,7 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-137" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="339.41" as="sourcePoint" />
-            <mxPoint x="1490" y="339.41" as="targetPoint" />
+            <mxPoint x="1470" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-140" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -383,6 +383,12 @@
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-142" value="(B, 3, 4, 240, 240）" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="610.5" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-147" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="579.9100000000001" as="sourcePoint" />
+            <mxPoint x="1480" y="579.9100000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
