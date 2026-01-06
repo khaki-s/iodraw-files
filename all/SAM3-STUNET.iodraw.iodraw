@@ -141,6 +141,9 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-58" value="resblock" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="768" width="63" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-59" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="427" y="680" width="127" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
