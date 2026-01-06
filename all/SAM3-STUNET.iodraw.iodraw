@@ -291,7 +291,7 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-109" target="52kFL-z2Gp-4ViMMPGCo-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="52kFL-z2Gp-4ViMMPGCo-109" value="leakyrelu" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-109" value="&lt;div&gt;instance Norm3d&lt;/div&gt;leakyrelu" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="170" width="107.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="52kFL-z2Gp-4ViMMPGCo-111" target="52kFL-z2Gp-4ViMMPGCo-113">
