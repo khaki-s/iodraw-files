@@ -271,8 +271,8 @@
             <mxPoint x="1050" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="52kFL-z2Gp-4ViMMPGCo-101" value="resblock&lt;div style=&quot;font-size: 24px;&quot;&gt;（B,32,4,128,128）&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1030" y="382.5" width="234" height="80" as="geometry" />
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-101" value="resblock&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1030" y="382.5" width="160" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-103" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="990" y="295" width="40" height="75" as="geometry" />
