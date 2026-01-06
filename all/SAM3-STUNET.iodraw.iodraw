@@ -166,7 +166,7 @@
         <mxCell id="52kFL-z2Gp-4ViMMPGCo-64" value="(B, 768, 4, 8, 8)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="780" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="52kFL-z2Gp-4ViMMPGCo-65" value="resblock" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="52kFL-z2Gp-4ViMMPGCo-65" value="resblock&lt;div&gt;（B,256,4,16,16）&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="660" width="63" height="27" as="geometry" />
         </mxCell>
       </root>
