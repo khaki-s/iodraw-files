@@ -49,10 +49,10 @@
           <mxGeometry x="64.57000000000001" y="2460" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Quantitatively estimating the proportion of community movement&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="75.32" y="2170" width="188.5" height="120" as="geometry" />
+          <mxGeometry x="66.50999999999999" y="2100" width="188.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;记录螃蟹的行为特点并写入对应的时间戳&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="78.57" y="2330" width="182" height="120" as="geometry" />
+          <mxGeometry x="69.80999999999999" y="2280" width="182" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;记录一天内的贻贝移动距离变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="318.57" y="2050" width="200" height="80" as="geometry" />
