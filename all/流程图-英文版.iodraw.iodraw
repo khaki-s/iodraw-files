@@ -186,7 +186,7 @@
         <mxCell id="oMht6GtzU37AmOLUJAYW-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Data Preprocessing&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="109.99999999999997" y="1365" width="212.72" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="I3C3tyhcpiigpmLS34UK-2" value="fixing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="I3C3tyhcpiigpmLS34UK-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;fixing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="68.96000000000001" y="1680" width="201.25" height="90" as="geometry" />
         </mxCell>
       </root>
