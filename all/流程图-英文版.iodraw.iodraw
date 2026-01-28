@@ -166,8 +166,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wIFhnUj1aRB4lOY1zGte-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模型评估：MOTA，ID 切换数目， FP/FN, 轨迹碎片化等指标的量化评估&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;消融实验：&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;对三个物种进行算法比较，验证选择目前算法的优异性&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="239.36" y="2650" width="346" height="100" as="geometry" />
+        <mxCell id="wIFhnUj1aRB4lOY1zGte-14" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Quality Control and Evaluation&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="286.5" y="2470" width="313.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wIFhnUj1aRB4lOY1zGte-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#FF8000;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="194" y="2840" width="396" height="140" as="geometry" />
