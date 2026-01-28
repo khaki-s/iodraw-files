@@ -35,7 +35,7 @@
         <mxCell id="j52YCUN_AdAyvbO1wZIp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;shape=flexArrow;" parent="1" source="j52YCUN_AdAyvbO1wZIp-33" target="j52YCUN_AdAyvbO1wZIp-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j52YCUN_AdAyvbO1wZIp-1" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Workflow for deep sea animal detection and behavioral dynamics analysis using YOLO DeepSORT&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#b1ddf0;" parent="1" vertex="1">
+        <mxCell id="j52YCUN_AdAyvbO1wZIp-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#b1ddf0;" parent="1" vertex="1">
           <mxGeometry x="467" y="10" width="743" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j52YCUN_AdAyvbO1wZIp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="j52YCUN_AdAyvbO1wZIp-5" target="j52YCUN_AdAyvbO1wZIp-10" edge="1">
