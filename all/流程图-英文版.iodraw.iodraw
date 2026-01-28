@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wIFhnUj1aRB4lOY1zGte-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;TrackEval-based MOT evaluation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="270.92" y="2680" width="313.5" height="50" as="geometry" />
+          <mxGeometry x="460" y="2490" width="313.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wIFhnUj1aRB4lOY1zGte-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#FF8000;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="194" y="2840" width="396" height="140" as="geometry" />
