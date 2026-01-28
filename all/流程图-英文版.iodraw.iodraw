@@ -241,8 +241,8 @@
         <mxCell id="I3C3tyhcpiigpmLS34UK-17" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Like &lt;b&gt;shrimp,&lt;/b&gt; sea cucumber, snail, etc&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="645.79" y="1900" width="212.72" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I3C3tyhcpiigpmLS34UK-20" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="540.86" y="2280" width="241" height="460" as="geometry" />
+        <mxCell id="I3C3tyhcpiigpmLS34UK-20" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="32.75999999999999" y="1490" width="241" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
