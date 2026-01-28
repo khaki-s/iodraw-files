@@ -67,12 +67,12 @@
           <mxGeometry x="347.52" y="2105" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Motion-driven association, reduced box drift&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;align=center;" parent="1" vertex="1">
-          <mxGeometry x="311.82" y="2330" width="226" height="60" as="geometry" />
+          <mxGeometry x="347.52" y="2220" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-24" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;行为较简单，移动速度快&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;代表物种：阿尔文虾&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="570.32" y="2445" width="201.63" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oMht6GtzU37AmOLUJAYW-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;单纯复形投影算法和 S-map 算法确定动力&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;系统的非线性程度&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="oMht6GtzU37AmOLUJAYW-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Optimized YOLO + DeepSORT&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="561.95" y="2150" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;探究&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;阿尔文虾&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;和热液的聚集关系；运动轨迹和地理位置的关系；进行Cosinor 模型探究其是否具有节律&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
