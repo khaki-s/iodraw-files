@@ -7,7 +7,7 @@
         <mxCell id="I3C3tyhcpiigpmLS34UK-4" value="" style="shape=flexArrow;endArrow=none;html=1;strokeColor=none;strokeWidth=11;fillColor=#d5e8d4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414.78" y="1486" as="sourcePoint" />
-            <mxPoint x="349.4739837398374" y="1710" as="targetPoint" />
+            <mxPoint x="415" y="1640" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
