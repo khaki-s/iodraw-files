@@ -15,7 +15,7 @@
           <mxGeometry x="129.78" y="1200" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Dataset filtering&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="334" y="1320" width="160" height="40" as="geometry" />
+          <mxGeometry x="334" y="1310" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Low-light correction&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="334.78" y="1390" width="160" height="40" as="geometry" />
@@ -184,7 +184,7 @@
           <mxGeometry x="208" y="2415" width="396" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Data Preprocessing&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="1290" width="212.72" height="20" as="geometry" />
+          <mxGeometry x="334.78" y="1270" width="212.72" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
