@@ -211,9 +211,9 @@
         <mxCell id="I3C3tyhcpiigpmLS34UK-8" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=none;strokeWidth=11;fillColor=#d5e8d4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="1765" as="sourcePoint" />
-            <mxPoint x="930.5300000000002" y="1825" as="targetPoint" />
+            <mxPoint x="860.5300000000002" y="1825" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="930.75" y="1765" />
+              <mxPoint x="860.75" y="1765" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -221,7 +221,7 @@
           <mxGeometry x="385.57" y="1830" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3C3tyhcpiigpmLS34UK-12" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Helvetica&quot; color=&quot;#333333&quot;&gt;Behavioral characteristics are relatively simple&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1830" width="226" height="60" as="geometry" />
+          <mxGeometry x="819" y="1830" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3C3tyhcpiigpmLS34UK-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=none;strokeWidth=11;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I3C3tyhcpiigpmLS34UK-2" target="I3C3tyhcpiigpmLS34UK-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -239,7 +239,7 @@
           <mxGeometry x="392.21" y="1900" width="212.72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I3C3tyhcpiigpmLS34UK-17" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Like &lt;b&gt;shrimp,&lt;/b&gt; sea cucumber, snail, etc&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="826.64" y="1900" width="212.72" height="30" as="geometry" />
+          <mxGeometry x="825.64" y="1900" width="212.72" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
