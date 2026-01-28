@@ -13,8 +13,8 @@
         </mxCell>
         <mxCell id="I3C3tyhcpiigpmLS34UK-4" value="" style="shape=flexArrow;endArrow=none;html=1;strokeColor=none;strokeWidth=11;fillColor=#d5e8d4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414.78" y="1482" as="sourcePoint" />
-            <mxPoint x="415" y="1660" as="targetPoint" />
+            <mxPoint x="473.78" y="1482" as="sourcePoint" />
+            <mxPoint x="474" y="1660" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
