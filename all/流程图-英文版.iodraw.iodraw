@@ -73,7 +73,7 @@
           <mxGeometry x="570.32" y="2445" width="201.63" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;单纯复形投影算法和 S-map 算法确定动力&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;系统的非线性程度&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="566.1400000000001" y="2170" width="210" height="120" as="geometry" />
+          <mxGeometry x="561.95" y="2150" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;探究&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;阿尔文虾&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;和热液的聚集关系；运动轨迹和地理位置的关系；进行Cosinor 模型探究其是否具有节律&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="563.6400000000001" y="2330" width="212.5" height="120" as="geometry" />
@@ -145,7 +145,7 @@
           <mxGeometry x="-290" y="2020" width="241" height="460" as="geometry" />
         </mxCell>
         <mxCell id="wIFhnUj1aRB4lOY1zGte-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Determination of Nonlinear Degree of Dynamic System&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="776.1400000000001" y="1990" width="200" height="80" as="geometry" />
+          <mxGeometry x="480.0000000000001" y="2080" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wIFhnUj1aRB4lOY1zGte-9" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=none;strokeWidth=11;fillColor=#d5e8d4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
