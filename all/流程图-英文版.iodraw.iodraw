@@ -64,19 +64,19 @@
           <mxGeometry x="309.44" y="1520" width="206.12" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;YOLO + BoT-SORT&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="314.32" y="2170" width="210" height="120" as="geometry" />
+          <mxGeometry x="314.32" y="2170" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;根据匹配情况设置对应参数，定义贻贝群落的活动状态。计算前后帧的贻贝移动比例&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;align=center;" parent="1" vertex="1">
-          <mxGeometry x="311.82" y="2330" width="212.5" height="120" as="geometry" />
+          <mxGeometry x="311.82" y="2330" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-24" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;行为较简单，移动速度快&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;代表物种：阿尔文虾&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="570.32" y="2445" width="201.63" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-25" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;单纯复形投影算法和 S-map 算法确定动力&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;系统的非线性程度&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="561.95" y="2150" width="210" height="120" as="geometry" />
+          <mxGeometry x="561.95" y="2150" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;探究&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;阿尔文虾&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;和热液的聚集关系；运动轨迹和地理位置的关系；进行Cosinor 模型探究其是否具有节律&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="563.6400000000001" y="2330" width="212.5" height="120" as="geometry" />
+          <mxGeometry x="563.6400000000001" y="2330" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-34" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=none;strokeWidth=11;fillColor=#d5e8d4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -109,7 +109,7 @@
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-45" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=none;strokeWidth=6;fillColor=#fad9d5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="oMht6GtzU37AmOLUJAYW-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419.32" y="2130" as="sourcePoint" />
+            <mxPoint x="419" y="2130" as="sourcePoint" />
             <mxPoint x="420.32" y="2190" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
