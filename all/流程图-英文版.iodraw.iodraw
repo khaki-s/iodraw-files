@@ -194,7 +194,7 @@
           <mxGeometry x="53.32000000000001" y="1680" width="219.78" height="34" as="geometry" />
         </mxCell>
         <mxCell id="wIFhnUj1aRB4lOY1zGte-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Classify based on behavioral characteristics&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="313.17" y="1540" width="206.12" height="44" as="geometry" />
+          <mxGeometry x="310.94" y="1550" width="206.12" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
