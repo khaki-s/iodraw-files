@@ -6,8 +6,8 @@
         <mxCell id="1" parent="0" />
         <mxCell id="I3C3tyhcpiigpmLS34UK-9" value="" style="shape=flexArrow;endArrow=none;html=1;strokeColor=none;strokeWidth=11;fillColor=#d5e8d4;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="1670" as="sourcePoint" />
-            <mxPoint x="680.22" y="1774" as="targetPoint" />
+            <mxPoint x="672.56" y="1680" as="sourcePoint" />
+            <mxPoint x="673" y="1770" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
