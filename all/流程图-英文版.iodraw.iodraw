@@ -73,10 +73,10 @@
           <mxGeometry x="570.32" y="2445" width="201.63" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Optimized YOLO + DeepSORT&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="636.31" y="2100" width="226" height="60" as="geometry" />
+          <mxGeometry x="636.31" y="2105" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Enhanced ID continuity and stability&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="636.3100000000001" y="2250" width="226" height="60" as="geometry" />
+          <mxGeometry x="636.3100000000001" y="2220" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-34" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=none;strokeWidth=11;fillColor=#d5e8d4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
