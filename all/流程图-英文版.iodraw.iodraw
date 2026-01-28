@@ -181,8 +181,8 @@
         <mxCell id="wIFhnUj1aRB4lOY1zGte-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#FF8000;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="214.36" y="2630" width="396" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oMht6GtzU37AmOLUJAYW-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Data Preprocessing&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="109.99999999999997" y="1365" width="212.72" height="20" as="geometry" />
+        <mxCell id="oMht6GtzU37AmOLUJAYW-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Data Preprocessing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="309.96" y="1490" width="212.72" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I3C3tyhcpiigpmLS34UK-2" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot; color=&quot;#333333&quot;&gt;Fixed living organisms&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="54.860000000000014" y="1720" width="206.12" height="44" as="geometry" />
