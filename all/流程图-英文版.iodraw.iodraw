@@ -217,7 +217,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I3C3tyhcpiigpmLS34UK-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Verdana&quot; color=&quot;#333333&quot;&gt;Behavioral characteristics are&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 17px;&quot;&gt;relatively&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Verdana&quot; color=&quot;#333333&quot;&gt;&amp;nbsp;complex&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="I3C3tyhcpiigpmLS34UK-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Verdana&quot; color=&quot;#333333&quot;&gt;Behavioral characteristics are&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 17px;&quot;&gt;relatively&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="343.71999999999997" y="1830" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3C3tyhcpiigpmLS34UK-12" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Helvetica&quot; color=&quot;#333333&quot;&gt;Behavioral characteristics are relatively simple&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
@@ -242,7 +242,7 @@
           <mxGeometry x="645.79" y="1900" width="212.72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I3C3tyhcpiigpmLS34UK-20" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="32.76" y="1480" width="847.24" height="470" as="geometry" />
+          <mxGeometry x="-620" y="1460" width="847.24" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
