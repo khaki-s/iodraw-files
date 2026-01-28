@@ -55,7 +55,7 @@
           <mxGeometry x="69.75999999999999" y="2270" width="182" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;记录一天内的贻贝移动距离变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="318.57" y="2050" width="200" height="80" as="geometry" />
+          <mxGeometry x="316.23" y="1970" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;行为简单，几乎不移动&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;（代表物种：&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;贻贝&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="316.32" y="2465" width="200" height="30" as="geometry" />
@@ -142,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-37" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#f8cecc;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="299.86" y="2040" width="241" height="460" as="geometry" />
+          <mxGeometry x="-290" y="2020" width="241" height="460" as="geometry" />
         </mxCell>
         <mxCell id="wIFhnUj1aRB4lOY1zGte-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Determination of Nonlinear Degree of Dynamic System&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="570.32" y="2050" width="200" height="80" as="geometry" />
