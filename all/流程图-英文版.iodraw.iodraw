@@ -220,7 +220,7 @@
         <mxCell id="I3C3tyhcpiigpmLS34UK-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Verdana&quot; color=&quot;#333333&quot;&gt;Behavioral characteristics are more complex&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="318.57" y="1830" width="226" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I3C3tyhcpiigpmLS34UK-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Verdana&quot; color=&quot;#333333&quot;&gt;Behavioral characteristics are more complex&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="I3C3tyhcpiigpmLS34UK-12" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Helvetica Neue, Helvetica, Arial, Hiragino Sans GB, Hiragino Sans GB W3, Microsoft YaHei UI, Microsoft YaHei, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Behavioral characteristics are relatively simple&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="810" y="1830" width="226" height="60" as="geometry" />
         </mxCell>
       </root>
