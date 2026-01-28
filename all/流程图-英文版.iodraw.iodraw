@@ -238,6 +238,13 @@
         <mxCell id="RpY8IljretJUgqgcXb-0-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Gamma correction&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="334" y="1450" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RpY8IljretJUgqgcXb-0-6" value="" style="shape=flexArrow;endArrow=block;html=1;strokeColor=none;strokeWidth=11;fillColor=#d5e8d4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="167.02999999999997" y="2440" as="sourcePoint" />
+            <mxPoint x="167.16999999999996" y="2350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
