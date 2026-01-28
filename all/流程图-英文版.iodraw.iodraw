@@ -159,15 +159,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wIFhnUj1aRB4lOY1zGte-12" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=none;strokeWidth=11;fillColor=#d5e8d4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="wIFhnUj1aRB4lOY1zGte-12" value="" style="shape=flexArrow;endArrow=none;html=1;strokeColor=none;strokeWidth=11;fillColor=#d5e8d4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460.6900000000001" y="2615" as="sourcePoint" />
-            <mxPoint x="459.69" y="2500" as="targetPoint" />
+            <mxPoint x="348.5200000000001" y="2555" as="sourcePoint" />
+            <mxPoint x="347.52" y="2440" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wIFhnUj1aRB4lOY1zGte-14" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Quality Control and Evaluation&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="302.75" y="2470" width="313.5" height="50" as="geometry" />
+          <mxGeometry x="270.92" y="2680" width="313.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wIFhnUj1aRB4lOY1zGte-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#FF8000;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="194" y="2840" width="396" height="140" as="geometry" />
