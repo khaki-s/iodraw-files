@@ -54,7 +54,7 @@
         <mxCell id="oMht6GtzU37AmOLUJAYW-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Minimal-distance displacement estimation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="54.860000000000014" y="2220" width="226" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oMht6GtzU37AmOLUJAYW-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Determination of Nonlinear Degree of Dynamic System&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+        <mxCell id="oMht6GtzU37AmOLUJAYW-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Fast movement, simple morphology&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="353.62" y="1980" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oMht6GtzU37AmOLUJAYW-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;行为简单，几乎不移动&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;（代表物种：&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;贻贝&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I3C3tyhcpiigpmLS34UK-11" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Simple mobile organisms&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
-          <mxGeometry x="340.88" y="1870" width="226" height="60" as="geometry" />
+          <mxGeometry x="340.88" y="1870" width="229.12" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3C3tyhcpiigpmLS34UK-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Complex mobile organisms&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" parent="1" vertex="1">
           <mxGeometry x="636.31" y="1870" width="226" height="60" as="geometry" />
