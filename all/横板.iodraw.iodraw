@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram id="BiotaTrackingFramework" name="Page-1">
-    <mxGraphModel dx="37821" dy="24807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="47173" dy="31423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_SdRCOsxmFDrf8veoj7h-46" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Framework for Behavior-Drien Underwater Object Tracking&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-850" y="-770" width="640" height="30" as="geometry" />
+          <mxGeometry x="-1030" y="-760" width="950" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YpS41YU9DCwUa8jHfXK0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-250" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
