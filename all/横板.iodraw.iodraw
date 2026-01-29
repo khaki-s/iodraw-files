@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram id="BiotaTrackingFramework" name="Page-1">
-    <mxGraphModel dx="131341" dy="90967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="133679" dy="92621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
         <mxCell id="3s2VuokYQE1JlVaW18Kk-15" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" edge="1" />
         <mxCell id="3s2VuokYQE1JlVaW18Kk-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" edge="1" />
         <mxCell id="3s2VuokYQE1JlVaW18Kk-18" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" edge="1" />
-        <mxCell id="_SdRCOsxmFDrf8veoj7h-2" value="&lt;b&gt;1. Data Pre-processing&lt;/b&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;CLAHE &amp;amp; Gamma Correction&lt;br&gt;Manual Screening" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
+        <mxCell id="_SdRCOsxmFDrf8veoj7h-2" value="&lt;b&gt;1. Data Pre-processing&lt;/b&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;br&gt;Manual Screening" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_SdRCOsxmFDrf8veoj7h-3" value="&lt;b&gt;2. Biological Categorization&lt;/b&gt;&lt;br&gt;&lt;hr&gt;Sessile vs. Mobile&lt;br&gt;Morphology &amp;amp; Frequency" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
