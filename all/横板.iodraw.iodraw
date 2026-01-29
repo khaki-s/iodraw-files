@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram id="BiotaTrackingFramework" name="Page-1">
-    <mxGraphModel dx="173425" dy="120739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="178101" dy="124047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,8 +177,8 @@
         <mxCell id="YpS41YU9DCwUa8jHfXK0-11" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;2.Biological Categorization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-917.5" y="-525" width="195" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YpS41YU9DCwUa8jHfXK0-12" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;(EMSO &lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;public dataset&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1090" y="-567" width="120" height="30" as="geometry" />
+        <mxCell id="YpS41YU9DCwUa8jHfXK0-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Behavior &amp;amp; Mrphology&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="-465" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
